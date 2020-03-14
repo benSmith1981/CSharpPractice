@@ -12,7 +12,7 @@ namespace CodingCheck
 
             shipSpeed = 10;
 
-            string[] names = {"Bee","Thomas"};
+            string[] names = {"Bee","tree","Thomas"};
             for (int index = 0;
                 index < names.Length;
                 index++)
